@@ -1,7 +1,0 @@
-A: SELECT * FROM Student;
-
-B: SELECT StudentID,Name,City FROM Student WHERE city='Kandy';
-
-C: UPDATE Student SET City='Galle' WHERE StudentID=4;
-
-D: SELECT * FROM Student,Course;
